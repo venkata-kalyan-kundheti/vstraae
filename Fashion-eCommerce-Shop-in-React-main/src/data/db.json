@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Luxury Dress",
-      "image": "product image 1.jpg",
+      "image": "collection_1.jpeg",
       "category": "special-edition",
       "price": 3500,
       "popularity": 5,
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "title": "Luxury Black Clothing",
-      "image": "product image 2.jpg",
+      "image": "collection_2.jpeg",
       "category": "luxury-collection",
       "price": 1050,
       "popularity": 4,
@@ -21,7 +21,7 @@
     {
       "id": "3",
       "title": "Luxury Blue Dress",
-      "image": "product image 3.jpg",
+      "image": "collection_3.jpeg",
       "category": "summer-edition",
       "price": 5000,
       "popularity": 3,
@@ -30,7 +30,7 @@
     {
       "id": "4",
       "title": "Special Brown Dress",
-      "image": "product image 4.jpg",
+      "image": "collection_4.jpeg",
       "category": "unique-collection",
       "price": 2500,
       "popularity": 2,
@@ -39,7 +39,7 @@
     {
       "id": "5",
       "title": "Special Luxury Dress",
-      "image": "product image 5.jpg",
+      "image": "collection_5.jpeg",
       "category": "unique-collection",
       "price": 5200,
       "popularity": 1,
@@ -48,7 +48,7 @@
     {
       "id": "6",
       "title": "Super Luxury Dress",
-      "image": "product image 6.jpg",
+      "image": "collection_6.jpeg",
       "category": "luxury-collection",
       "price": 8500,
       "popularity": 20,
@@ -57,7 +57,7 @@
     {
       "id": "7",
       "title": "Luxury Brown Dress",
-      "image": "product image 7.jpg",
+      "image": "collection_7.jpeg",
       "category": "luxury-collection",
       "price": 4500,
       "popularity": 5,
@@ -66,7 +66,7 @@
     {
       "id": "8",
       "title": "Premium Brown Dress",
-      "image": "product image 8.jpg",
+      "image": "collection_8.jpeg",
       "category": "unique-collection",
       "price": 4500,
       "popularity": 5,
@@ -75,7 +75,7 @@
     {
       "id": "9",
       "title": "Luxury White Dress",
-      "image": "product image 9.jpg",
+      "image": "collection_9.jpeg",
       "category": "luxury-collection",
       "price": 4500,
       "popularity": 5,
@@ -84,7 +84,7 @@
     {
       "id": "10",
       "title": "Brown Limited Collection",
-      "image": "product image 10.jpg",
+      "image": "collection_10.jpeg",
       "category": "unique-collection",
       "price": 4500,
       "popularity": 5,
