@@ -18,13 +18,18 @@ const ProductItem = ({
   popularity: number;
   stock: number;
 }) => {
+
+
   return (
-    <div className="w-[400px] flex flex-col gap-2 justify-center max-md:w-[300px] hover:scale-105 transition-transform duration-300">
+    <div className="w-[400px] flex flex-col gap-2 justify-center max-md:w-[300px] rounded-[10px] shadow-[0_10px_25px_rgba(0,0,0,0.12)] hover:shadow-[0_20px_40px_rgba(0,0,0,0.2)] hover:scale-105 transition-all duration-300">
       <Link
         to={`/product/${id}`}
-        className="w-full h-[300px] max-md:h-[200px] overflow-hidden"
+        className="w-full h-[300px] max-md:h-[200px] rounded-[6px] overflow-hidden"
       >
-        <img src={`/assets/${image}`} alt={title} />
+        <img
+          src={`/assets/${image || "collection_1.jpeg"}`}
+          alt={title}
+        />
       </Link>
       <Link
         to={`/product/${id}`}

@@ -1,6 +1,6 @@
 import ProductGrid from "./ProductGrid";
-import ProductGridWrapper from "./ProductGridWrapper";
-
+// import ProductGridWrapper from "./ProductGridWrapper";
+import data from "../data/db.json";
 const HomeCollectionSection = () => {
   return (
     <div className="py-20 bg-gradient-to-br from-red-900/5 to-red-800/5 shadow-sm">
@@ -9,9 +9,8 @@ const HomeCollectionSection = () => {
           Our Collection
         </h2>
       </div>
-      <ProductGridWrapper limit={6}>
-        <ProductGrid />
-      </ProductGridWrapper>
+  <ProductGrid products={data.products} />
+
     </div>
   );
 };
