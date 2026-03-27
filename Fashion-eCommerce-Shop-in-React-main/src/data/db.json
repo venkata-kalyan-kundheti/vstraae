@@ -14,7 +14,7 @@
       "title": "Fusion Lehenga Set",
       "image": "collection_2.jpeg",
       "category": "luxury-collection",
-      "price": 1050,
+      "price": 3000,
       "popularity": 4,
       "stock": 20
     },
@@ -23,7 +23,7 @@
       "title": "sahara Set",
       "image": "collection_3.jpeg",
       "category": "summer-edition",
-      "price": 5000,
+      "price": 4000,
       "popularity": 3,
       "stock": 5
     },
@@ -41,16 +41,16 @@
       "title": "DesiDenim Jacket",
       "image": "collection_5.jpeg",
       "category": "unique-collection",
-      "price": 50,
+      "price": 4000,
       "popularity": 1,
       "stock": 0
     },
     {
       "id": "6",
-      "title": "Super Luxury Dress",
+      "title": "RangMIlan",
       "image": "collection_6.jpeg",
       "category": "luxury-collection",
-      "price": 8500,
+      "price": 5500,
       "popularity": 20,
       "stock": 20
     },
@@ -65,19 +65,19 @@
     },
     {
       "id": "8",
-      "title": "Premium Brown Dress",
+      "title": "Premium Iconic Duppatta",
       "image": "collection_8.jpeg",
       "category": "unique-collection",
-      "price": 4500,
+      "price": 3500,
       "popularity": 5,
       "stock": 500
     },
      {
       "id": "11",
-      "title": "Luxury Red Dress",
+      "title": "Dwi-Roop Saree",
       "image": "collecction_11.jpeg",
       "category": "luxury-collection",
-      "price": 4500,
+      "price": 4000,
       "popularity": 5,
       "stock": 500
     },
@@ -92,10 +92,10 @@
     },
      {
       "id": "10",
-      "title": "Luxury Green Dress",
+      "title": "Tribe Walk",
       "image": "collection_10.jpeg",
       "category": "luxury-collection",
-      "price": 4500,
+      "price": 3500,
       "popularity": 5,
       "stock": 500
      }
