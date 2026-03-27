@@ -1,4 +1,3 @@
-import CategoryItem from "./CategoryItem";
 
 const CategoriesSection = () => {
   return (
