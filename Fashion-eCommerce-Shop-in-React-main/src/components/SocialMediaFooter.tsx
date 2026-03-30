@@ -1,9 +1,9 @@
-import { FaFacebookF } from "react-icons/fa6";
+{ /* import { FaFacebookF } from "react-icons/fa6"; */}
 import { FaInstagram } from "react-icons/fa6";
-import { FaTiktok } from "react-icons/fa6";
+{/* import { FaTiktok } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { FaPinterestP } from "react-icons/fa6";
-import { FaYoutube } from "react-icons/fa6";
+import { FaYoutube } from "react-icons/fa6"; */}
 
 
 const SocialMediaFooter = () => {
@@ -12,12 +12,18 @@ const SocialMediaFooter = () => {
     <div className="bg-gradient-to-r from-primary to-secondary flex justify-center items-center flex-col py-9 gap-3 mt-24 mx-5 max-[400px]:mx-3">
       <p className="text-base text-cream font-light">Follow us on:</p>
       <div className="flex gap-2 text-gold">
-        <FaFacebookF className="w-3" />
-        <FaInstagram className="w-4" />
-        <FaTiktok className="w-4" />
+        {/* <FaFacebookF className="w-4" /> */}
+        <a
+  href="https://www.instagram.com/vastraee.official.co"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <FaInstagram className="w-5 h-5 cursor-pointer hover:scale-110 transition" />
+</a>
+       {/* <FaTiktok className="w-4" />
         <FaLinkedinIn className="w-4" />
         <FaPinterestP className="w-4" />
-        <FaYoutube className="w-4" />
+        <FaYoutube className="w-4" /> */}
       </div>
     </div>
 

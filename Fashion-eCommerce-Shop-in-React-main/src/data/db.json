@@ -7,7 +7,16 @@
       "category": "special-edition",
       "price": 3500,
       "popularity": 5,
-      "stock": 10
+      "stock": 10,
+      "description": "Elegant Anarkali set designed with rich ethnic patterns, perfect for festive occasions and weddings.",
+      "details": [
+        "Fabric: Silk blend",
+        "Work: Hand embroidery",
+        "Fit: Regular fit",
+        "Occasion: Festive / Wedding",
+        "Care: Dry clean only"
+      ],
+      "delivery": "Delivery within 3-5 days. Free shipping on prepaid orders. Easy 7-day return."
     },
     {
       "id": "2",
@@ -16,7 +25,16 @@
       "category": "luxury-collection",
       "price": 3000,
       "popularity": 4,
-      "stock": 20
+      "stock": 20,
+      "description": "Modern fusion lehenga set combining traditional elegance with contemporary styling.",
+      "details": [
+        "Fabric: Georgette",
+        "Work: Printed + zari border",
+        "Fit: Flowy fit",
+        "Occasion: Party wear",
+        "Care: Gentle wash"
+      ],
+      "delivery": "Delivery within 4-6 days. Cash on delivery available. Hassle-free returns."
     },
     {
       "id": "3",
@@ -25,7 +43,16 @@
       "category": "summer-edition",
       "price": 4000,
       "popularity": 3,
-      "stock": 5
+      "stock": 5,
+      "description": "Lightweight Sahara set crafted for comfort and style during summer occasions.",
+      "details": [
+        "Fabric: Cotton silk",
+        "Work: Minimal embroidery",
+        "Fit: Relaxed fit",
+        "Occasion: Casual / Summer",
+        "Care: Machine wash"
+      ],
+      "delivery": "Delivery within 3-4 days. Fast shipping available. Easy returns."
     },
     {
       "id": "4",
@@ -34,7 +61,16 @@
       "category": "unique-collection",
       "price": 2500,
       "popularity": 2,
-      "stock": 15
+      "stock": 15,
+      "description": "Stylish kurta designed for festive celebrations with a modern ethnic touch.",
+      "details": [
+        "Fabric: Cotton blend",
+        "Work: Printed",
+        "Fit: Slim fit",
+        "Occasion: Festive",
+        "Care: Hand wash"
+      ],
+      "delivery": "Delivery within 2-5 days. Free delivery above ₹999."
     },
     {
       "id": "5",
@@ -43,7 +79,16 @@
       "category": "unique-collection",
       "price": 4000,
       "popularity": 1,
-      "stock": 0
+      "stock": 0,
+      "description": "Fusion denim jacket with traditional embroidery, giving a bold Indo-western look.",
+      "details": [
+        "Fabric: Denim",
+        "Work: Thread embroidery",
+        "Fit: Regular fit",
+        "Occasion: Casual / Party",
+        "Care: Machine wash"
+      ],
+      "delivery": "Out of stock. Will be restocked soon."
     },
     {
       "id": "6",
@@ -52,7 +97,16 @@
       "category": "luxury-collection",
       "price": 5500,
       "popularity": 20,
-      "stock": 20
+      "stock": 20,
+      "description": "Premium designer outfit blending vibrant colors and luxurious craftsmanship.",
+      "details": [
+        "Fabric: Pure silk",
+        "Work: Heavy embroidery",
+        "Fit: Tailored fit",
+        "Occasion: Wedding",
+        "Care: Dry clean"
+      ],
+      "delivery": "Delivery within 5-7 days. Premium packaging included."
     },
     {
       "id": "7",
@@ -61,7 +115,16 @@
       "category": "luxury-collection",
       "price": 4500,
       "popularity": 5,
-      "stock": 500
+      "stock": 500,
+      "description": "Graceful saree inspired by traditional Indian heritage with a luxurious finish.",
+      "details": [
+        "Fabric: Banarasi silk",
+        "Work: Zari weaving",
+        "Length: 6.3 meters",
+        "Occasion: Wedding",
+        "Care: Dry clean"
+      ],
+      "delivery": "Delivery within 4-6 days. Secure packaging."
     },
     {
       "id": "8",
@@ -70,16 +133,34 @@
       "category": "unique-collection",
       "price": 3500,
       "popularity": 5,
-      "stock": 500
+      "stock": 500,
+      "description": "Elegant dupatta with intricate patterns to elevate any ethnic outfit.",
+      "details": [
+        "Fabric: Chiffon",
+        "Work: Embroidery",
+        "Length: 2.5 meters",
+        "Occasion: Festive",
+        "Care: Hand wash"
+      ],
+      "delivery": "Delivery within 3-5 days. Easy return available."
     },
-     {
+    {
       "id": "11",
       "title": "Dwi-Roop Saree",
       "image": "collecction_11.jpeg",
       "category": "luxury-collection",
       "price": 4000,
       "popularity": 5,
-      "stock": 500
+      "stock": 500,
+      "description": "Dual-tone saree with a unique reversible design for versatile styling.",
+      "details": [
+        "Fabric: Silk blend",
+        "Work: Dual color weaving",
+        "Length: 6.3 meters",
+        "Occasion: Party / Wedding",
+        "Care: Dry clean"
+      ],
+      "delivery": "Delivery within 4-6 days. Premium packaging."
     },
     {
       "id": "9",
@@ -88,18 +169,35 @@
       "category": "luxury-collection",
       "price": 4500,
       "popularity": 5,
-      "stock": 500
+      "stock": 500,
+      "description": "Stylish sneakers inspired by Indian patterns with a modern twist.",
+      "details": [
+        "Material: Leather + fabric",
+        "Sole: Rubber",
+        "Fit: Regular",
+        "Occasion: Casual",
+        "Care: Clean with dry cloth"
+      ],
+      "delivery": "Delivery within 3-5 days. Free shipping available."
     },
-     {
+    {
       "id": "10",
       "title": "Tribe Walk",
       "image": "collection_10.jpeg",
       "category": "luxury-collection",
       "price": 3500,
       "popularity": 5,
-      "stock": 500
-     }
-    
+      "stock": 500,
+      "description": "Comfortable ethnic-inspired footwear designed for everyday style.",
+      "details": [
+        "Material: Synthetic + fabric",
+        "Sole: Anti-slip",
+        "Fit: Comfortable",
+        "Occasion: Casual wear",
+        "Care: Wipe clean"
+      ],
+      "delivery": "Delivery within 3-4 days. Easy returns available."
+    }
   ],
   "orders": [
     {

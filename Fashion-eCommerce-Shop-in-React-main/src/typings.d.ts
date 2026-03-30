@@ -6,6 +6,10 @@ interface Product {
   price: number;
   popularity: number;
   stock: number;
+
+  description: string;
+  details: string[];
+  delivery: string;
 }
 
 interface ProductInCart extends Product {

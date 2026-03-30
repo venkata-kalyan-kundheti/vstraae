@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+
 
 const Banner = () => {
   return (
@@ -11,10 +11,7 @@ const Banner = () => {
         Discover the art of fashion with our exclusive collection.
       </h3>
       <div className="flex justify-center items-center gap-3 pb-10 max-[400px]:flex-col max-[400px]:gap-1 w-[420px] max-sm:w-[350px] max-[400px]:w-[300px]">
-      <Link to="/shop" className="luxury-btn text-center text-xl font-normal tracking-[0.6px] leading-[72px] w-full h-12 flex items-center justify-center">
-          Shop Now
-        </Link>
-        <Link to="/shop" className="luxury-btn-outline text-center text-xl font-normal tracking-[0.6px] leading-[72px] w-full h-12 flex items-center justify-center">See Collection</Link>
+      
       </div>
     </div>
   );
